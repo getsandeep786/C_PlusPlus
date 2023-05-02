@@ -1,0 +1,1 @@
+Debug/main.cpp.o Debug/pointersutilities.cpp.o Debug/smartpointers.cpp.o Debug/test.cpp.o Debug/a.cpp.o Debug/b.cpp.o   
